@@ -1,4 +1,14 @@
-# Tutorial and sample codes for ASP.NET 5 Web API
+# Tutorial and sample codes for ASP.NET 6 Web API
+
+## Migrating from .NET 6
+
+The code base is from this repository for [.NET 5 API](https://github.com/charlehsin/net5-webapi-tutorial). Then we follow this [MSDN guide](https://docs.microsoft.com/en-us/aspnet/core/migration/50-to-60?view=aspnetcore-6.0&tabs=visual-studio-code) to migrate this to .NET 6.
+
+You can find out the changes done during the migration from the commit history.
+
+To get the installed .NET versions
+
+- dotnet --info
 
 ## Overview
 

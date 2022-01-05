@@ -1,7 +1,6 @@
-namespace TodoApi.Models
+namespace TodoApi.Models;
+
+public class Response
 {
-    public class Response
-    {
-        public string Message { get; set; }
-    }
+    public string Message { get; set; }
 }

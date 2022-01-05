@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/TodoApi/bin/Debug/net5.0/TodoApi.dll",
+            "program": "${workspaceFolder}/TodoApi/bin/Debug/net6.0/TodoApi.dll",
             "args": [],
             "cwd": "${workspaceFolder}/TodoApi",
             "stopAtEntry": false,
